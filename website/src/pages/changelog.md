@@ -15,6 +15,7 @@ toc_max_heading_level: 2
 
 ### 🐛 Bug 修复
 
+- Fix: 修复客户端请求未处理 cookies [@yanyongyu](https://github.com/yanyongyu) ([#1491](https://github.com/nonebot/nonebot2/pull/1491))
 - Fix: `on_type` typing error [@yanyongyu](https://github.com/yanyongyu) ([#1482](https://github.com/nonebot/nonebot2/pull/1482))
 - Fix: 修复 ArgumentParser 错误信息叠加问题 [@yanyongyu](https://github.com/yanyongyu) ([#1426](https://github.com/nonebot/nonebot2/pull/1426))
 
@@ -28,12 +29,16 @@ toc_max_heading_level: 2
 
 ### 💫 杂项
 
+- Plugin: 更新 gpt3 插件模块名 [@chrisyy2003](https://github.com/chrisyy2003) ([#1501](https://github.com/nonebot/nonebot2/pull/1501))
+- Plugin: 更新 随机禁言 插件功能描述 [@Ikaros-521](https://github.com/Ikaros-521) ([#1495](https://github.com/nonebot/nonebot2/pull/1495))
 - Plugin: 更新 multi chatgpt 插件仓库地址 [@chrisyy2003](https://github.com/chrisyy2003) ([#1487](https://github.com/nonebot/nonebot2/pull/1487))
 - Plugin: 更新 ayaka_games 介绍 [@bridgeL](https://github.com/bridgeL) ([#1431](https://github.com/nonebot/nonebot2/pull/1431))
 - Plugin: 修改 novelai send magiadice 插件模块名 [@sena-nana](https://github.com/sena-nana) ([#1423](https://github.com/nonebot/nonebot2/pull/1423))
 
 ### 🍻 插件发布
 
+- Plugin: 不要复读 [@yanyongyu](https://github.com/yanyongyu) ([#1500](https://github.com/nonebot/nonebot2/pull/1500))
+- Plugin: JAVA MC 服务器信息查询 [@yanyongyu](https://github.com/yanyongyu) ([#1497](https://github.com/nonebot/nonebot2/pull/1497))
 - Plugin: 防撤回 [@yanyongyu](https://github.com/yanyongyu) ([#1489](https://github.com/nonebot/nonebot2/pull/1489))
 - Plugin: 随机禁言 [@yanyongyu](https://github.com/yanyongyu) ([#1486](https://github.com/nonebot/nonebot2/pull/1486))
 - Plugin: 只因进化录 [@yanyongyu](https://github.com/yanyongyu) ([#1484](https://github.com/nonebot/nonebot2/pull/1484))
